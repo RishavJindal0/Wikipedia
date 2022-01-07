@@ -8,6 +8,7 @@ Wikipedia-like online encyclopedia.
 - **Index Page** : User can click on any entry name to be taken directly to that entry page.
 
 - **Search** : Allow the user to type a query into the search box in the sidebar to search for an encyclopedia entry. 
+
               - If the query matches the name of an encyclopedia entry, the user should be redirected to that entry’s page. 
               - If the query does not match the name of an encyclopedia entry, the user will instead be taken to a search results page that displays                 a list of all encyclopedia entries that have the query as a substring. For example, if the search query were **ytho**, then                           **Python** should appear in the search results.
 
