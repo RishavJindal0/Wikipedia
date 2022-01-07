@@ -16,8 +16,8 @@ Wikipedia-like online encyclopedia.
 - **Random Page** : Clicking “Random Page” in the sidebar should take user to a random encyclopedia entry.
 
 >Tech Stack
--Languages: HTML,CSS,PYTHON
--Framework : Django
--Databases: Sql
+- Languages: HTML,CSS,PYTHON
+- Framework : Django
+- Databases: Sql
 
 **To See the working** **[Link](https://youtu.be/0RFpRVDDdRk)**
