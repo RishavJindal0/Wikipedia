@@ -1,7 +1,7 @@
 # Wikipedia
 Wikipedia-like online encyclopedia.
 
->Key Feautures
+>Key Features
 
 - **Entry Page** : Visiting /wiki/TITLE, where TITLE is the title of an encyclopedia entry, will render a page that displays the contents of that encyclopedia entry.
 
